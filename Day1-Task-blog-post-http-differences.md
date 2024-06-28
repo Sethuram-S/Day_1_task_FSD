@@ -25,6 +25,7 @@ HTTP/2, standardized in 2015, was developed by the Internet Engineering Task For
 <img src="https://miro.medium.com/v2/resize:fit:648/0*MfSxvU3VHy5gLnjE" width="50%" height="50%">
 
 <br>
+
 ### Performance Comparison
 
 Studies have shown that HTTP/2 can significantly reduce page load times compared to HTTP/1.1. Websites leveraging HTTP/2 experience improved speed due to reduced latency and optimized connection usage.
